@@ -1,0 +1,237 @@
+body{
+	 background: url(img/10.jpg);
+	 background-size: cover;
+	 box-sizing: border-box;
+	 background-attachment:scroll;
+	 background-repeat: repeat-y;
+	 background-size:100%;
+	 font-family: 'Nunito', sans-serif;
+}
+/*ШАПКА*/
+.logo{
+	 font-family: 'Secular One', sans-serif;
+	 font-size:27px;
+     color:white;
+     height:25px;
+	 width:90px;
+	 text-align:center; 
+     position: relative;
+	 left:180px;
+	 top:30px;
+}
+.glavnaya{
+	 font-size:20px;
+     color:white;
+     height:25px;
+	 width:90px;
+	 border:1px solid transparent; 
+	 text-align:center; 
+	 position: relative;
+	 left:260px;
+	 top:20px;
+}
+.glavnaya:hover {
+	 font-size:22px;
+}
+.register{
+	 font-size:20px;
+     color:white;
+     height:25px;
+	 width:190px;
+	 border:1px solid transparent; 
+	 text-align:center; 
+	 position: relative;
+	 left:1040px;
+	 bottom:8px; 
+}
+.register:hover {
+	 font-size:22px;
+}
+.tovar{
+	 font-size:20px;
+     color:white;
+     height:25px;
+	 width:60px;
+	 border:1px solid transparent; 
+	 text-align:center; 
+	 position: relative;
+	 left:420px;
+	 bottom:34px;
+}
+.tovar:hover {
+	 font-size:22px; 
+}
+.o_nas{
+	 font-size:20px;
+     color:white;
+     height:25px;
+	 width:160px;
+	 border:1px solid transparent; 
+	 text-align:center; 
+	 position: relative;
+	 left:560px;
+	 bottom:60px;
+}
+.o_nas:hover {
+     font-size:22px;
+}
+.svaz{
+	 font-size:20px;
+     color:white;
+     height:25px;
+	 width:150px;
+	 border:1px solid transparent; 
+	 text-align:center; 
+	 position: relative;
+	 left:815px;
+	 bottom:87px;
+}
+.svaz:hover {
+	 font-size:22px;
+}
+.back_menu{
+	 height:150px;
+	 width:1000px;
+	 background:gray;
+	 position:relative;
+	 top:100px;
+	 left:300px;
+	 border-radius: 20px;
+	 opacity:0.9;
+} 
+.menu{
+     position:relative;
+     bottom:160px;
+     right:165px; 
+}
+.razdel{
+	 position:relative;
+     left:55px;
+     top:14px; 
+}
+.nomber{
+	 position:relative;
+	 left:325px;
+	 bottom:100px;
+	 color:white;
+}
+.nomber{
+	 position:relative;
+	 bottom:140px;
+}
+.nomber_1{
+     font-size:15px;
+}
+.nomber_2{
+     font-size:13px;
+     position:relative;
+     left:47px;
+     bottom:28px; 
+}
+/*МЕНЮ СПИСКА*/
+.spisok{
+	 position:relative;
+	 bottom:20px; 
+}
+.spisok_fon{
+	 text-align:center; 
+	 background:gray;
+	 height:30px;
+	 width:1000px;
+	 position:relative;
+     bottom:200px;
+     left:180px;
+     border-radius:3px;
+}
+.filtr{
+	 text-align:center; 
+	 border-right:1px solid black;
+	 padding-left:5px; 
+	 height:30px; 
+	 width:110px; 
+	 color:#ededed;
+	 font-size:19px;
+	 position:relative;
+	 bottom:230px;
+	 left:180px; 
+}
+.filtr:hover {
+	 background:#4a4a4a;
+	 color:white; 
+	 transition: all 0.3s ease;
+	 text-decoration: none;
+}
+/*INPUT*/
+.search{
+	 position:relative;
+	 bottom:276px;
+	 left:1000px;
+}
+.button_1{
+	 position:relative;
+	 right:53px;
+	 bottom:22px; 
+}
+/*ГАРАЖ ТОВАРЫ*/
+.garage_tovar{
+	 position:relative;
+	 bottom:90px;
+	 left:50px;
+}
+/*ТОВАР 1 ГАРАЖ*/
+.garage_1{
+	 position:relative;
+	 bottom:70px; 
+	 right:120px; 
+}
+.img_garage_1{
+     position:relative;
+     bottom:400px;
+     left:200px;  
+}
+.text_garage_1{ 
+	 font-size:18px; 
+	 text-align:center; 
+     color:black;
+     position:relative;
+     left:248px;
+     bottom:150px;  
+     width: 100px;
+}
+.fon_garage_1{
+	 border-radius:10px;
+     width:200px;
+     height:250px;
+     background:white;
+     position:relative;
+     bottom:100px;
+     left:200px;    
+}
+/*ТOВАР 2 ГАРАЖ*/
+.garage_2{
+
+}
+.img_garage_2{
+     position:relative;
+     bottom:970px;
+     left:380px;  
+}
+.text_garage_2{
+	 font-size:18px; 
+	 text-align:center; 
+     color:black;
+     width:100px;
+     position:relative;
+     bottom:723px; 
+     left:430px;
+}
+.fon_garage_2{
+	 border-radius:10px;
+     width:200px;
+     height:250px;
+     background:white;
+     position:relative;
+     bottom:675px;
+     left:380px;  
+}
+/**/
